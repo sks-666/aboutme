@@ -15,7 +15,7 @@ Sponsoring is an act of giving in a different fashion. 🌱 Please don't forget 
 
 You can support us using any of the methods below:  
 
-<a href="https://ssomai.com.np/support-us" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHubSponsors&logoColor=#white"> Via SSOMAI Collective Hub</a>
+<a href="https://somai.com.np/support-us" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHubSponsors&logoColor=#white"> Via SSOMAI Collective Hub</a>
 <br><br>
 <a href="https://paypal.me/surensomai" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
 
@@ -48,7 +48,7 @@ My exploration of Tantra in Asia, combined with cutting-edge courses at the Open
 <strong>TechGuff</strong> – Full Stack Engineer (2015-2016) <br> 
 <a href="https://dearhive.com/" target="_blank" rel="noopener"><strong>Dearhive</strong></a> – Web Developer (2016-2018) <br>
 <a href="https://sastosales.com.np/" target="_blank" rel="noopener"><strong>Sastosales</strong></a> – Project Planning, Legal &amp; Security Specialist (2018-2022) <br>
-<a href="https://ssomai.com.np/" target="_blank" rel="noopener"><strong>SSOMAI HUB</strong></a> – Operations Manager (2023 - ongoing | Seasonal) <br>
+<a href="https://somai.com.np/" target="_blank" rel="noopener"><strong>SOMAI HUB</strong></a> – Operations Manager (2023 - ongoing | Seasonal) <br>
 <a href="https://github.com/lafa-Hackathon/0x9/" target="_blank" rel="noopener"><strong>Lafa Hackathon</strong></a> – Event/Workshop Planner (2024 - ongoing | Seasonal) <br>
 <a href="https://kripai.com" target="_blank" rel="noopener"><strong>KRIP TECH</strong></a> – COO (2025 - ongoing | Freelancer) <br>
 
