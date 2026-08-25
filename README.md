@@ -1,80 +1,104 @@
-# Hi there 👋  
+<h1 align="center">Hi, I'm Surendra Kumar Somai 👋</h1>
 
-A vibrant hub for digital solution enthusiasts. We believe that *knowledge is powerful*, and we strive to use it wisely to make a positive impact.  
+<p align="center">
+  <b>CTO @ SOMAI Digital</b> · Technical Project Manager · Digital Growth & E-commerce
+</p>
 
-## Join Us in Making a Difference  
+<p align="center">
+  <a href="https://linkedin.com/in/surendra-somai-813937101" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:surendrakumarsomai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://surendrakumarsomai.com.np" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Portfolio-30363D?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"></a>
+  <a href="https://somai.com.np/support-us" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Sponsor-EA4AAA?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor"></a>
+</p>
 
-Through our community, we’ve organized numerous workshops and events aimed at fostering learning and collaboration for a good cause. Your support can help us continue this mission!  
+---
 
-### Sponsors  
+## About
 
-#### ⭐️ Show Your Support  
-If you appreciate our work, please consider giving a star to our GitHub repository. Your acknowledgment helps us contribute even more to the Open Source Community!  
+Technology and delivery lead based in Nepal, working remotely with startups, agencies, and
+international teams. **10+ years in technology and digital operations, 5+ years leading delivery**
+for web, SaaS, and e-commerce products.
 
-Sponsoring is an act of giving in a different fashion. 🌱 Please don't forget to check out our network-building activities.  
+I sit between engineering and the business: I ship the product *and* own the plan, the timeline,
+and the client conversation.
 
-You can support us using any of the methods below:  
+- 🏗️ **Building** — SOMAI Digital, where I lead technology and delivery as CTO
+- ⚙️ **Working with** — React, Node.js, Laravel, REST APIs, WordPress, Shopify
+- 📈 **Also doing** — SEO, Meta & Google Ads, CRO, marketing automation, analytics
+- 🌱 **Community** — workshops, hackathons, and open-source through the SSOMAI Collective Hub
+- 💬 **Ask me about** — technical project delivery, e-commerce ops, growth for small teams
+- 📫 **Reach me** — [surendrakumarsomai@gmail.com](mailto:surendrakumarsomai@gmail.com)
 
-<a href="https://somai.com.np/support-us" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHubSponsors&logoColor=#white"> Via SSOMAI Collective Hub</a>
-<br><br>
-<a href="https://paypal.me/surensomai" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"> Via <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white"></a>
+## Tech & Tools
 
-## Why Sponsorship Matters  
-Sponsorship is crucial for the success and sustainability of our initiatives. By becoming a sponsor, you enable us to:  
-- **Enhance Workshop Quality:** Improve the content and resources available to participants.  
-- **Expand Our Reach:** Bring our workshops to a wider audience.  
-- **Ensure Accessibility:** Provide scholarships for participants facing financial challenges.  
+**Engineering** — React · Node.js · Laravel · PHP · MySQL · JavaScript · REST APIs · Git  
+**Platforms** — WordPress · WooCommerce · Shopify · Elementor  
+**Growth** — SEO · Meta Ads · Google Ads (Search/Shopping/PMax) · GA4 · Klaviyo · Brevo · CRO  
+**Delivery** — Agile / Scrum / Kanban · Jira · Asana · ClickUp · Trello · Notion · Figma
 
-### How We Use Your Contributions  
-Your generous funding will be allocated to:  
-- **Content Development:** Creating high-quality materials for our workshops.  
-- **Guest Speakers:** Inviting industry experts to share their insights.  
-- **Marketing and Outreach:** Promoting our events to reach more people.  
-- **Administrative Costs:** Covering operational expenses.  
-- **Scholarships:** Supporting those who need financial assistance to participate.  
+## Where I've Worked
 
-## Explore Our Online Network  
-Group of Enthusiasts to collaborate, share knowledge, and contribute to innovative projects. Connect with developers, discuss emerging technologies, and enhance your skills in a vibrant, global community. Join us to code, learn, and grow together, it’s about building a community. 🌱 Check out our online network-building activities and see how you can get involved!  
+| Company | Role | Years |
+| --- | --- | --- |
+| [SOMAI Digital](https://somai.com.np/) | **Chief Technology Officer (CTO)** | 2026 – ongoing |
+| [KRIP TECH](https://kripai.com) | Chief Operating Officer (COO) | 2025 – 2026 |
+| [Lafa Hackathon](https://github.com/lafa-Hackathon/0x9/) | Event / Workshop Planner | 2024 – ongoing *(seasonal)* |
+| [SOMAI HUB](https://somai.com.np/) | Operations Manager | 2023 – ongoing *(seasonal)* |
+| [Sastosales](https://sastosales.com.np/) | Project Planning, Legal & Security Specialist | 2018 – 2022 |
+| [Dearhive](https://dearhive.com/) | Web Developer | 2016 – 2018 |
+| TechGuff | Full Stack Engineer | 2015 – 2016 |
+| Cityphone | Programmer | 2010 – 2014 |
 
-## Transform Your Life with Mindfulness and Joy!  
-Are you ready to embrace a world of wellness and mindfulness? Join me on a transformative journey inspired by the teachings of **Tantra** and mindful living.  
+## Selected Work
 
-### My Journey  
-My exploration of Tantra in Asia, combined with cutting-edge courses at the Open Source Institution, has revolutionized my understanding of life. Now, I’m excited to share these profound insights with you, helping you transform any negativity into bliss and connection.  
+- **[Mahima MultiPurpose](https://mahimamultipurpose.com.np)** — enterprise ERP / business automation platform (CRM, automation workflows, IoT integrations). Led delivery across backend, frontend, and hardware teams.
+- **[Nexcove](https://nexcove.co.uk)** — UK WooCommerce lifestyle brand. End-to-end ownership: storefront, SEO, paid social, and email automation.
+- **[0x9](https://github.com/lafa-Hackathon/0x9)** — community hackathon project. Project lead: planning, execution, and stakeholder communication.
+- **Shopify D2C operations** — catalog, landing pages, and app stack (Klaviyo, reviews, bundles) across four D2C brands.
 
-### Featured Companies
+For what I'm working on right now, check out my **pinned repositories**.
 
-<strong>Cityphone</strong> – Programmer (2010-2014) <br>
-<strong>TechGuff</strong> – Full Stack Engineer (2015-2016) <br> 
-<a href="https://dearhive.com/" target="_blank" rel="noopener"><strong>Dearhive</strong></a> – Web Developer (2016-2018) <br>
-<a href="https://sastosales.com.np/" target="_blank" rel="noopener"><strong>Sastosales</strong></a> – Project Planning, Legal &amp; Security Specialist (2018-2022) <br>
-<a href="https://somai.com.np/" target="_blank" rel="noopener"><strong>SOMAI HUB</strong></a> – Operations Manager (2023 - ongoing | Seasonal) <br>
-<a href="https://github.com/lafa-Hackathon/0x9/" target="_blank" rel="noopener"><strong>Lafa Hackathon</strong></a> – Event/Workshop Planner (2024 - ongoing | Seasonal) <br>
-<a href="https://kripai.com" target="_blank" rel="noopener"><strong>KRIP TECH</strong></a> – COO (2025 - ongoing | Freelancer) <br>
+---
 
+## The SSOMAI Collective Hub 🌱
 
+A vibrant hub for digital solution enthusiasts. We believe *knowledge is powerful*, and we strive
+to use it wisely to make a positive impact.
 
+Through the community we've run workshops and events that bring developers together to collaborate,
+share knowledge, and contribute to open projects — a place to code, learn, and grow together.
 
-<!--
-<p align="center" dir="auto">
-<b>
+### Support the work
 
+If you find this useful, a ⭐ on the repository genuinely helps. If you'd like to go further:
 
-<a href="https://linkedin.com/in/surendra-somai-813937101" target="_blank" rel="nofollow"><img src="https://camo.githubusercontent.com/e8dbf62a04af86d46001864cd22338d8a8474486a0e976ec695580027c373c79/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c696e6b6564696e2d2532333030373742352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/linkedin-%230077B5.svg?&amp;style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
-<a href="mailto:surendrakumarsomai@gmail.com" target="_blank"><img src="https://camo.githubusercontent.com/e0b4776967ebe33b13133f3c20167c4e73c24f06814ffa29f625889557dc9a86/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f676d61696c2d2532334431343833362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d676d61696c266c6f676f436f6c6f723d7768697465" alt="Gmail" data-canonical-src="https://img.shields.io/badge/gmail-%23D14836.svg?&amp;style=for-the-badge&amp;logo=gmail&amp;logoColor=white" style="max-width: 100%;"></a>&nbsp;
+<p>
+  <a href="https://somai.com.np/support-us" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Sponsor%20via%20SSOMAI%20Collective-30363D?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor via SSOMAI Collective Hub"></a>
+  <a href="https://paypal.me/surensomai" target="_blank" rel="noopener"><img src="https://img.shields.io/badge/Sponsor%20via%20PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Sponsor via PayPal"></a>
+</p>
 
-</p> -->
+**Your sponsorship lets us:**
 
-If you use open-source projects, please consider sponsoring my work so that I have the funding and resources to maintain them.
+- **Improve workshop quality** — better content and resources for participants
+- **Reach further** — bring workshops to a wider audience
+- **Stay accessible** — scholarships for participants facing financial barriers
 
-For what I'm currently working on, check out my pinned repositories!
+**Contributions go toward:** content development · guest speakers · marketing and outreach ·
+administrative costs · scholarships.
 
-### Guidelines for interaction
+If you use open-source projects, please consider sponsoring this work so it has the funding and
+resources to stay maintained.
 
-As a contributor, you can make my life as a maintainer easier by:
- - Accepting my code suggestions through GitHub's interface
- - Marking conversations as resolved as you address them
- - (Re-)requesting my review when you're ready for one
+## Contributing
 
-<p>Thank you for being part of our community! Together, we can create a brighter future through knowledge and collaboration. 🌍✨</p>  
+You can make my life as a maintainer easier by:
 
+- Accepting code suggestions through GitHub's interface
+- Marking conversations as resolved as you address them
+- (Re-)requesting my review when you're ready for one
+
+---
+
+<p align="center">
+Thank you for being part of this community. Together we can build a brighter future through knowledge and collaboration. 🌍✨
+</p>
