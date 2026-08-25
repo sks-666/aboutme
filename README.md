@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Surendra Kumar Somai 👋</h1>
 
 <p align="center">
-  <b>CTO @ SOMAI Digital</b> · Technical Project Manager · Digital Growth & E-commerce
+  <b>CTO @ Nexcove Digital</b> · Technical Project Manager · Digital Growth & E-commerce
 </p>
 
 <p align="center">
@@ -22,7 +22,7 @@ for web, SaaS, and e-commerce products.
 I sit between engineering and the business: I ship the product *and* own the plan, the timeline,
 and the client conversation.
 
-- 🏗️ **Building** — SOMAI Digital, where I lead technology and delivery as CTO
+- 🏗️ **Building** — Nexcove Digital, where I lead technology and delivery as CTO
 - ⚙️ **Working with** — React, Node.js, Laravel, REST APIs, WordPress, Shopify
 - 📈 **Also doing** — SEO, Meta & Google Ads, CRO, marketing automation, analytics
 - 🌱 **Community** — workshops, hackathons, and open-source through the SSOMAI Collective Hub
@@ -40,12 +40,12 @@ and the client conversation.
 
 | Company | Role | Years |
 | --- | --- | --- |
-| [SOMAI Digital](https://somai.com.np/) | **Chief Technology Officer (CTO)** | 2026 – ongoing |
+| [Nexcove Digital](https://nexcove.co.uk/digital) | **Chief Technology Officer (CTO)** | 2026 – ongoing |
 | [KRIP TECH](https://kripai.com) | Chief Operating Officer (COO) | 2025 – 2026 |
 | [Lafa Hackathon](https://github.com/lafa-Hackathon/0x9/) | Event / Workshop Planner | 2024 – ongoing *(seasonal)* |
 | [SOMAI HUB](https://somai.com.np/) | Operations Manager | 2023 – ongoing *(seasonal)* |
 | [Sastosales](https://sastosales.com.np/) | Project Planning, Legal & Security Specialist | 2018 – 2022 |
-| [Dearhive](https://dearhive.com/) | Web Developer | 2016 – 2018 |
+| [Dearhive](https://dearhive.com/) | Web Developer | 2014 – 2018 |
 | TechGuff | Full Stack Engineer | 2015 – 2016 |
 | Cityphone | Programmer | 2010 – 2014 |
 
