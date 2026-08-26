@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Surendra Kumar Somai 👋</h1>
+<h1 align="center">Hi, ALL 👋</h1>
 
 <p align="center">
   <b>CTO @ Nexcove Digital</b> · Technical Project Manager · Digital Growth & E-commerce
