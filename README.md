@@ -15,7 +15,7 @@
 
 ## About
 
-Technology and delivery lead based in Nepal, working remotely with startups, agencies, and
+Technology and delivery lead based in ASIA, working remotely with startups, agencies, and
 international teams. **10+ years in technology and digital operations, 5+ years leading delivery**
 for web, SaaS, and e-commerce products.
 
